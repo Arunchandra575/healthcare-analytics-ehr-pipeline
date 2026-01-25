@@ -230,30 +230,30 @@ kubectl apply -f infra/k8s/
 ## 🎓 Skills Demonstrated
 
 ### Data Engineering
-✅ Python, PyArrow, DuckDB, Pandas, NumPy, Polars  
-✅ Large-scale ETL systems (10M+ records)  
-✅ SQL optimization & query tuning  
-✅ Parquet columnar format  
-✅ Batch & stream processing patterns  
+-- Python, PyArrow, DuckDB, Pandas, NumPy, Polars  
+-- Large-scale ETL systems (10M+ records)  
+-- SQL optimization & query tuning  
+-- Parquet columnar format  
+-- Batch & stream processing patterns  
 
 ### Machine Learning
-✅ PyTorch neural networks  
-✅ Model training & inference  
-✅ LLM integration & RAG pipelines  
-✅ Feature engineering & risk scoring  
+-- PyTorch neural networks  
+-- Model training & inference  
+-- LLM integration & RAG pipelines  
+-- Feature engineering & risk scoring  
 
 ### Infrastructure & DevOps
-✅ Docker containerization  
-✅ Kubernetes orchestration (Deployments, Services, ConfigMaps, HPA)  
-✅ Distributed systems design  
-✅ Networking, file systems, OS concepts  
-✅ Scalability & failure handling  
+-- Docker containerization  
+-- Kubernetes orchestration (Deployments, Services, ConfigMaps, HPA)  
+-- Distributed systems design  
+-- Networking, file systems, OS concepts  
+-- Scalability & failure handling  
 
 ### Databases
-✅ Massive relational databases (PostgreSQL, Oracle, Snowflake)  
-✅ Complex SQL (window functions, CTEs, subqueries)  
-✅ Query optimization & indexing  
-✅ OLAP workloads with DuckDB  
+-- Massive relational databases (PostgreSQL, Oracle, Snowflake)  
+-- Complex SQL (window functions, CTEs, subqueries)  
+-- Query optimization & indexing  
+-- OLAP workloads with DuckDB  
 
 ---
 
