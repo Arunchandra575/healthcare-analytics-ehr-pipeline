@@ -260,23 +260,7 @@ kubectl apply -f infra/k8s/
 ## 🔗 Connect
 
 **GitHub**: [Arunchandra575](https://github.com/Arunchandra575)  
-**LinkedIn**: [Add your LinkedIn]  
-**Portfolio**: [Add your portfolio]
+**LinkedIn**: https://www.linkedin.com/in/arunchandrabattula/ 
 
----
 
-## 📝 License
 
-MIT License - feel free to use this project as a reference for your own work.
-
----
-
-## 🙏 Acknowledgments
-
-This project demonstrates production-grade skills in:
-- Healthcare data engineering
-- Distributed systems architecture
-- Machine learning engineering
-- Cloud-native application development
-
-**Built for recruiters and hiring managers to evaluate technical depth across the full data/ML engineering stack.**
