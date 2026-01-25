@@ -89,7 +89,7 @@ healthcare-analytics-ehr-pipeline/
 
 ### 2. **Advanced SQL & Query Optimization**
 ```sql
--- Example: Complex analytical query with window functions
+Complex analytical query with window functions
 WITH patient_costs AS (
     SELECT 
         patient_id,
